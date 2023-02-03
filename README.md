@@ -1,2 +1,2 @@
-# CSUY_1121_HWs
-This is a collection of Jiaqi Li's codes for CS-UY 1121.
+# CS-UY 1121
+This is the bridge_course between CS-UY 1113 and CS-UY 1134.
