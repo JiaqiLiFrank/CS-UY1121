@@ -1,11 +1,3 @@
-# Author: <Jiaqi Li>
-# Assignment / Part: HW1
-# Date due: 2023-02-07
-# I pledge that I have completed this assignment without
-# collaborating with anyone else, in conformance with the
-# NYU School of Engineering Policies and Procedures on
-# Academic Misconduct.
-
 def main():
  original_lst = load_data()
  print(print_roster_by_year(original_lst))
