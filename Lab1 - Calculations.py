@@ -1,9 +1,3 @@
-# <Jiaqi Li>
-# CS - UY 1121
-# 26 January 2023
-# Lab 1
-# Problem #4
-
 def calc(operation):
     first_space = operation.find(" ")
     operand1 = operation[:first_space]
