@@ -1,9 +1,3 @@
-# <Jiaqi Li>
-# CS - UY 1121
-# 26 January 2023
-# Lab 1
-# Problem #2
-
 def pete_and_dan(fraction):
     output_result = "Origin"
     if (fraction == "whole"):
