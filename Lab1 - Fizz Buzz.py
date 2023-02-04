@@ -1,9 +1,3 @@
-# <Jiaqi Li>
-# CS - UY 1121
-# 26 January 2023
-# Lab 1
-# Problem #1
-
 def fizz_buzz(num):
     if ((num%5)==0):
         if((num%3)==0):
